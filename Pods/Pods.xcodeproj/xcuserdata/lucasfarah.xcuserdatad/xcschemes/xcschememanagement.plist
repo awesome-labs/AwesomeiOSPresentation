@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SchemeUserState</key>
+	<dict>
+		<key>IQKeyboardManagerSwift.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>NZAlertView.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>Pods-AwesomeiOSPresentation.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>UIImage-Helpers.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>0124CA567C952F9738188ADE7584F1C9</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>710FF08A301102838CB9F14E995ACF89</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>A7918C8FEC618C7598FEC1A451DC610D</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>CD22648406F34553301C1967ED90CD0F</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+	</dict>
+</dict>
+</plist>

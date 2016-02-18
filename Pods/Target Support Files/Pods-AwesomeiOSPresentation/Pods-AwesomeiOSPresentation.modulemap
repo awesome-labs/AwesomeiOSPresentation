@@ -1,0 +1,6 @@
+framework module Pods_AwesomeiOSPresentation {
+  umbrella header "Pods-AwesomeiOSPresentation-umbrella.h"
+
+  export *
+  module * { export * }
+}
