@@ -9,17 +9,7 @@
 			<key>isShown</key>
 			<false/>
 		</dict>
-		<key>NZAlertView.xcscheme</key>
-		<dict>
-			<key>isShown</key>
-			<false/>
-		</dict>
 		<key>Pods-AwesomeiOSPresentation.xcscheme</key>
-		<dict>
-			<key>isShown</key>
-			<false/>
-		</dict>
-		<key>UIImage-Helpers.xcscheme</key>
 		<dict>
 			<key>isShown</key>
 			<false/>
@@ -27,22 +17,12 @@
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
-		<key>0124CA567C952F9738188ADE7584F1C9</key>
+		<key>17FF598D10153DC5C38D7E91C50764AE</key>
 		<dict>
 			<key>primary</key>
 			<true/>
 		</dict>
-		<key>710FF08A301102838CB9F14E995ACF89</key>
-		<dict>
-			<key>primary</key>
-			<true/>
-		</dict>
-		<key>A7918C8FEC618C7598FEC1A451DC610D</key>
-		<dict>
-			<key>primary</key>
-			<true/>
-		</dict>
-		<key>CD22648406F34553301C1967ED90CD0F</key>
+		<key>56EF09125F5D30EC361E3C76E5DF4C4E</key>
 		<dict>
 			<key>primary</key>
 			<true/>

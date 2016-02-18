@@ -53,11 +53,7 @@ code_sign_if_enabled() {
 
 if [[ "$CONFIGURATION" == "Debug" ]]; then
   install_framework 'Pods-AwesomeiOSPresentation/IQKeyboardManagerSwift.framework'
-  install_framework 'Pods-AwesomeiOSPresentation/NZAlertView.framework'
-  install_framework 'Pods-AwesomeiOSPresentation/UIImage_Helpers.framework'
 fi
 if [[ "$CONFIGURATION" == "Release" ]]; then
   install_framework 'Pods-AwesomeiOSPresentation/IQKeyboardManagerSwift.framework'
-  install_framework 'Pods-AwesomeiOSPresentation/NZAlertView.framework'
-  install_framework 'Pods-AwesomeiOSPresentation/UIImage_Helpers.framework'
 fi
