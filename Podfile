@@ -3,10 +3,11 @@
 
 use_frameworks!
 target 'AwesomeiOSPresentation' do
-  pod 'IQKeyboardManagerSwift'  
-  #  pod 'TGCameraViewController'
-  pod 'NZAlertView'
-  
+
+  pod 'Gifu'
+  pod 'Alamofire', '~> 3.4'
+  pod 'EZLoadingActivity'
+
 end
 
 target 'AwesomeiOSPresentationTests' do
